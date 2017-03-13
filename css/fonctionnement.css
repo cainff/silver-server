@@ -168,8 +168,8 @@ footer {
 
 
     .detail:after {
-        top: 85%;
-        left: 15%;
+        top: 50%;
+        left: 19%;
         width: 151px;
         height: 126px;
         content: " ";
@@ -180,7 +180,7 @@ footer {
     }
     
     #number-one:after {
-    top: 62%;
+    top: 42%;
     left: 13%;
     height: 9px;
     width: 195px;
@@ -190,7 +190,7 @@ footer {
     }
     
     #number-two:after {
-    top: 95%;
+    top: 65%;
     left: 63%;
     height: 104px;
     width: 9px;
@@ -200,7 +200,7 @@ footer {
     }
     
     .detail_2:after {
-    top: 85%;
+    top: 55%;
     left: 65%;
     width: 151px;
     height: 126px;
@@ -215,7 +215,7 @@ footer {
 
 @media screen and (max-width: 1280px) {
     #number-two:after {
-    top: 91%;
+    top: 65%;
     left: 64%;
     height: 104px;
     width: 9px;
@@ -225,7 +225,7 @@ footer {
     }
     
     .detail_2:after {
-    top: 85%;
+    top: 53%;
     left: 68%;
     width: 151px;
     height: 126px;
@@ -237,7 +237,7 @@ footer {
     }
     
     .detail:after {
-    top: 85%;
+    top: 63%;
     left: 16%;
     width: 151px;
     height: 126px;
@@ -253,7 +253,7 @@ footer {
 @media screen and (max-width: 1195px) {
     
     #number-two:after {
-    top: 91%;
+    top: 45%;
     left: 66%;
     height: 104px;
     width: 9px;
@@ -263,7 +263,7 @@ footer {
     }
     
     #number-one:after {
-    top: 63%;
+    top: 40%;
     left: 13%;
     height: 9px;
     width: 195px;
@@ -273,7 +273,7 @@ footer {
     }
     
     .detail:after {
-    top: 83%;
+    top: 60%;
     left: 16%;
     width: 151px;
     height: 126px;
