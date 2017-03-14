@@ -20,15 +20,6 @@ nav {
     background-color: red;
 }
 
-footer {
-    position: relative;
-    height: 350px;
-    width: 100%;
-    background-color: white;
-    float: left;
-    overflow-y: hidden;
-}
-
 #text_window {
     width: 400px;
     height: 310px;
@@ -237,10 +228,6 @@ footer {
     text-align: left;
     white-space: pre-line;
 }
-
-
-
-
 
 @media screen and (max-width: 930px) {
     
@@ -477,10 +464,3 @@ footer {
     }
     
 }
-
-    
-
-
-
-
-

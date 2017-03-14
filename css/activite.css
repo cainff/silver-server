@@ -15,19 +15,20 @@
     font-weight: 600;
     list-style: none;
 }
-.subnav a{
+.subnav ul a{
     text-decoration: none;
+    color: black;
 }
 
 /**Bloc1**/
 
 #full_img {
-    background: url('/img/activites/bloc1/imgtop.png');
+    background: url('../img/activites/bloc1/imgtop.png');
     background-size:cover ;
     height: 629px;
     width: 100%;
 }
- 
+
 /**Bloc2**/ 
 
 
@@ -36,11 +37,9 @@
 }
 
 #ytb-video {
-    position: relative; 
-}
+    width: 560px;
+    margin-left: -35%;
 
-#ytb_video_res {
-    display: none;
 }
 
 .wrapbloc2 {
@@ -194,7 +193,7 @@
 .alone1 {
     position: relative;
     float: left;
-    right: 120px;
+    right: 80px;
 
 }
 
